@@ -31,7 +31,7 @@ public class HolaMundo {
         Persona per2 = new Persona();
         per2.setNombre("Felipe ");
         System.out.println("Nombre per2: " + per2.getNombre());
-        per2.comer("pizza hawaiana! ");
+        per2.comer("pizza hawaiana. ");
 
         //NOTA: Ejemplo y Tarea AUTOMOVIL.
         
